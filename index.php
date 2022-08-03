@@ -42,6 +42,7 @@
             <div class="banner-img" style="text-align: center ">
                 <center><section id="contacto">
                 <h1 style="margin-bottom: 10px;">Inicio de Sesión</h1>
+                <h2 style="margin-bottom: 10px;">Juan-Emilsa</h2>
                 <div class="div-grid">
                     <div class="grid-item">
                         
